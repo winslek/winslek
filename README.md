@@ -1,7 +1,7 @@
 ### Oh, hi there 👋
 
-<h1 align="center"> i'm Winsle.</h1>
+<h1 align="center"> i'm Flame.</h1>
 
 
 - 🖥 currently i know two programming languages, named <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a> and <a href="https://pythontutor.ru/"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white" alt="Python"/></a>, but I will 
-⚡ Team: TRS (T) Team (RU)
+⚡ Team: FLM Team
