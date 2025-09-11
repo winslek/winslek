@@ -1,7 +1,8 @@
 <h1 align="center">Yo, I'm Flame</h1>
 <p align="center">Python & Node.js developer specializing in reverse engineering and bot development</p>
 
-  <a href="https://t.me/theflamedev"><img src="eby" alt="Telegram" /></a>
+  <p align="center">
+  <a href="https://t.me/theflamedev"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=flat&logo=telegram" alt="Telegram" /></a>
 </p>
 
 ---
