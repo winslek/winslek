@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Flame</h1>
+<h1 align="center">👋 Yo, I'm Flame</h1>
 <p align="center">Python & Node.js developer specializing in reverse engineering and bot development</p>
 
   <p align="center">
@@ -13,8 +13,8 @@
 - ⚡ Team: FLM Team
 - 📫 Reach me on [Telegram](https://t.me/theflamedev)
 
-### ⚙️ My Arsenal
-[![My Skills](https://skillicons.dev/icons?i=js,py,mysql,ngnix)](https://skillicons.dev)
+### ⚙️ My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
 ### 🧠 Current Mission
 - Learning Java and C#
