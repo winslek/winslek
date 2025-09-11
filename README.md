@@ -11,7 +11,7 @@
 - 💻 Python & Node.js developer
 - 🔧 Specializing in reverse engineering, and bot development projects
 - ⚡ Team: FLM Team
-- 📫 Reach me on [TG](https://t.me/theflamedev)
+- 📫 Reach me on [Telegram](https://t.me/theflamedev)
 
 ### ⚙️ My Arsenal
 [![My Skills](https://skillicons.dev/icons?i=js,py,mysql,ngnix)](https://skillicons.dev)
