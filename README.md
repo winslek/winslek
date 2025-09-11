@@ -1,7 +1,24 @@
-### Oh, hi there 👋
+<h1 align="center">Yo, I'm Flame</h1>
+<p align="center">Python & Node.js developer specializing in reverse engineering and bot development</p>
 
-<h1 align="center"> i'm Flame.</h1>
+  <a href="https://t.me/theflamedev"><img src="eby" alt="Telegram" /></a>
+</p>
 
+---
 
-- 🖥 currently i know two programming languages, named <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a> and <a href="https://pythontutor.ru/"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white" alt="Python"/></a>, but I will 
-⚡ Team: FLM Team
+### 🚀 About Me
+- 💻 Python & Node.js developer
+- 🔧 Specializing in reverse engineering, and bot development projects
+- ⚡ Team: FLM Team
+- 📫 Reach me on [TG](https://t.me/theflamedev)
+
+### ⚙️ My Arsenal
+[![My Skills](https://skillicons.dev/icons?i=js,cs,git,github,mysql,nginx&theme=dark)](https://skillicons.dev)
+
+### 🧠 Current Mission
+- Learning Java and C#
+- Building development projects
+
+<p align="center">
+  <i>Keep coding and stay awesome</i>
+</p>
