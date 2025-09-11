@@ -14,7 +14,7 @@
 - 📫 Reach me on [TG](https://t.me/theflamedev)
 
 ### ⚙️ My Arsenal
-[![My Skills](https://skillicons.dev/icons?i=js,py, mysql,ngnix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,mysql,ngnix)](https://skillicons.dev)
 
 ### 🧠 Current Mission
 - Learning Java and C#
